@@ -64,6 +64,7 @@ a.floriography-links{
 }
 
 a.floriography-links:hover{
+  text-decoration: underline;
   color:#213b1e;
 }
 
