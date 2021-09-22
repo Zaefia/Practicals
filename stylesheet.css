@@ -1,0 +1,141 @@
+a{
+font-size:130%;
+}
+
+/* Practical Index */
+body.practical-bg{
+  background-color:#eae7ea;
+}
+
+h1.practical-main-headings{
+  background-color:#403040;
+  color:#dde0d9;
+ }
+
+
+h2.practical-odd-headings{
+  background-color:#af94a4;
+  color:#403040;
+}
+
+h2.practical-even-headings{
+  background-color:#cfbec8;
+  color:#403040;
+}
+
+
+a.practical-links{
+  color:#6C516C;
+  text-decoration: none;
+}
+
+a.practical-links:hover{
+  color:#403040;
+}
+
+hr.practical-line{
+  height:3px;
+  border:none;
+  color:#403040;
+  background-color:#403040;
+ }
+
+
+/* Practical 3 */
+body.floriography-bg{
+  background-color:#eae6e6;
+}
+
+h1.floriography-main-headings{
+  background-color:#213b1e;
+  color:#ffffff;
+}
+
+h2.floriography-sub-headings{
+  background-color:#a7afa6;
+  color:#213b1e;
+}
+
+
+a.floriography-links{
+  color:#4d624a;
+  text-decoration:none;
+}
+
+a.floriography-links:hover{
+  color:#213b1e;
+}
+
+
+/* Practical 4 */
+body.azalea-bg{
+  background-color:#e0e2db;
+}
+
+h1.azalea-main-headings{
+  background-color:#787f7b;
+  color:#f4f5f3;
+}
+
+p.azalea-content{
+  background-color:#f4f5f3;
+  color:black;
+}
+
+hr.azalea-line{
+  height:1.5px;
+  border:none;
+  color:#787f7b;
+  background-color:#787f7b;
+}
+
+a.azalea-links{
+  color:#787f7b;
+  text-decoration: none;
+}
+
+a.azalea-links:hover{
+  color:#484c49;
+}
+
+
+/* Practical 5 */
+body.marksheet-bg{
+  background-color:#dfdddd;
+}
+
+h1.marksheet-main-headings{
+  background-color:#212725;
+  color:#ffffff;
+}
+
+h2.makrsheet-sub-headings{
+background-color:#9ca6a5;
+color:#212725;
+}
+
+a.marksheet-links{
+  color:#6d7473;
+  text-decoration: none;
+}
+
+a.marksheet-links:hover{
+  color:#484c49;
+}
+
+/* Practical 10 */
+hr.form-line{
+  height:1.5px;
+  border:none;
+  color:#bdb76b;
+  background-color:#bdb76b;
+}
+
+a.form-links{
+  color:#979255;
+  text-decoration: none;
+}
+
+a.form-links:hover{
+  color:#716d40;
+}
